@@ -1,0 +1,1042 @@
+Sender: starting on host SPAGHETTI
+
+Sender: Handshake established
+
+Sender: Handshake established
+
+Sender: Handshake established
+Receiver: PUT dasdas.txt to server
+Receiver: file transfer completed
+Receiver: number of packets received 0
+Receiver: number of bytes received 0
+
+Sender: Handshake established
+Receiver: GET pa2.pdf from server
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: packet 0 dropped, resent
+Receiver: packet 0 dropped, resent
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: packet 1 dropped, resent
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Receiver: sent packet 0
+Receiver: received ACK for packet 1
+Receiver: sent packet 1
+Receiver: received ACK for packet 0
+Sender: file transfer completed
+Sender: effective bytes sent: 31299
+Sender: number of packets sent 626
+Sender: number of bytes sent 50080
+
+Sender: Handshake established
+
+Sender: Handshake established
+
+Sender: Handshake established

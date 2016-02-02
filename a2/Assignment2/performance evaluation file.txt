@@ -1,0 +1,19 @@
+Test the assignment. 
+The ratio for each drop percentage will then be calculated to view the full effectiveness. The file to be used is a binary file with the following details:
+Total File Size: 	 3832
+File Type:	 	 txt
+Packet Size:	 	 80
+Minima number of Packet: 48
+
+It records the number of total packets sent as well as the packets dropped.
+Drop %	total sent	dropped
+5	55	        7
+10	59		11
+15	71		23
+20	71		25
+25	85		37
+30	77		29
+35	111		63
+40	131		83
+45	132		84
+50	182		134
