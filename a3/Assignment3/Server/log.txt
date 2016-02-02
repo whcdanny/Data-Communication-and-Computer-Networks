@@ -1,0 +1,600 @@
+Sender: starting on host SPAGHETTI
+
+Sender: Handshake established
+
+Sender: Handshake established
+
+Sender: Handshake established
+
+Sender: Handshake established
+Sender: GET pct.jpg from server
+Receiver: Packets 0 - 4 sent.
+Receiver: Packet ACK'd - 0
+Receiver: Packet ACK'd - 2
+Receiver: Packet ACK'd - 3
+Receiver: Packet ACK'd - 4
+Receiver: Packet ACK'd - 4
+Receiver: Packets 4 - 8 sent.
+Receiver: Packet NAK'd - 5
+Receiver: Packets 5 - 9 sent.
+Receiver: Packet ACK'd - 5
+Receiver: Packet NAK'd - 6
+Receiver: Packets 6 - 10 sent.
+Receiver: Packet NAK'd - 6
+Receiver: Packets 6 - 10 sent.
+Receiver: Packet NAK'd - 6
+Receiver: Packets 6 - 10 sent.
+Receiver: Packet ACK'd - 7
+Receiver: Packet ACK'd - 8
+Receiver: Packet ACK'd - 9
+Receiver: Packet NAK'd - 10
+Receiver: Packets 10 - 14 sent.
+Receiver: Packet NAK'd - 10
+Receiver: Packets 10 - 14 sent.
+Receiver: Packet NAK'd - 10
+Receiver: Packets 10 - 14 sent.
+Receiver: Packet NAK'd - 10
+Receiver: Packets 10 - 14 sent.
+Receiver: Packet ACK'd - 10
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet NAK'd - 11
+Receiver: Packets 11 - 15 sent.
+Receiver: Packet ACK'd - 11
+Receiver: Packet ACK'd - 12
+Receiver: Packet ACK'd - 13
+Receiver: Packet ACK'd - 14
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet NAK'd - 15
+Receiver: Packets 15 - 19 sent.
+Receiver: Packet ACK'd - 15
+Receiver: Packet ACK'd - 16
+Receiver: Packet ACK'd - 17
+Receiver: Packet ACK'd - 18
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet NAK'd - 19
+Receiver: Packets 19 - 23 sent.
+Receiver: Packet ACK'd - 19
+Receiver: Packet ACK'd - 20
+Receiver: Packet ACK'd - 21
+Receiver: Packet ACK'd - 22
+Receiver: Packet ACK'd - 23
+Receiver: Packets 23 - 27 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet NAK'd - 24
+Receiver: Packets 24 - 28 sent.
+Receiver: Packet ACK'd - 24
+Receiver: Packet ACK'd - 25
+Receiver: Packet ACK'd - 26
+Receiver: Packet ACK'd - 27
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet NAK'd - 28
+Receiver: Packets 28 - 32 sent.
+Receiver: Packet ACK'd - 29
+Receiver: Packet ACK'd - 30
+Receiver: Packet ACK'd - 31
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet NAK'd - 33
+Receiver: Packets 33 - 37 sent.
+Receiver: Packet ACK'd - 33
+Receiver: Packet ACK'd - 34
+Receiver: Packet ACK'd - 35
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet NAK'd - 36
+Receiver: Packets 36 - 40 sent.
+Receiver: Packet ACK'd - 36
+Receiver: Packet ACK'd - 37
+Receiver: Packet ACK'd - 38
+Receiver: Packet ACK'd - 39
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet NAK'd - 40
+Receiver: Packets 40 - 44 sent.
+Receiver: Packet ACK'd - 40
+Receiver: Packet ACK'd - 41
+Receiver: Packet ACK'd - 42
+Receiver: Packet ACK'd - 43
+Receiver: Packet ACK'd - 44
+Receiver: Packets 44 - 48 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet NAK'd - 45
+Receiver: Packets 45 - 49 sent.
+Receiver: Packet ACK'd - 45
+Receiver: Packet ACK'd - 46
+Receiver: Packet ACK'd - 47
+Receiver: Packet ACK'd - 48
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet NAK'd - 49
+Receiver: Packets 49 - 53 sent.
+Receiver: Packet ACK'd - 49
+Receiver: Packet ACK'd - 50
+Receiver: Packet ACK'd - 51
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet NAK'd - 52
+Receiver: Packets 52 - 56 sent.
+Receiver: Packet ACK'd - 52
+Receiver: Packet ACK'd - 53
+Receiver: Packet NAK'd - 54
+Sender: file transfer completed
+Sender: effective bytes sent: 13056
+Sender: number of packets sent 1260
+Sender: number of bytes sent 322560
+
+Sender: Handshake established
+Renaming file pct.jpg to picture.jpg.
+Sender: Handshake established
